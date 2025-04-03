@@ -1,7 +1,8 @@
 # Worldbox Image-to-Map Converter  
 
 A Rust-based tool that converts images into Worldbox: God Simulator maps. \
-This utility transforms pixel data into a `.wbox` map file using a customizable palette, making it easy to create custom maps from images.  
+This utility transforms pixel data into a `.wbox` map file using a customizable palette, making it easy to create custom maps from images. \
+This tool built to be fast and customizable to the user's needs. If you have improvements, feel free to contribute to this project! 
 
 ## Features  
 - Convert images into Worldbox-compatible maps  
