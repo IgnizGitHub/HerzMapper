@@ -5,7 +5,8 @@ This utility transforms pixel data into a `.wbox` map file using a customizable 
 
 ## Features  
 - Convert images into Worldbox-compatible maps  
-- Supports easily customizable color palettes for accurate biome and terrain mapping  
+- Supports easily customizable color palettes for accurate biome and terrain mapping
+- Provides an Adobe Photoshop color file (A palette of all colors for usage in Image editing programs)
 - Optional freeze map support to mark specific areas as frozen  
 - Drag-and-drop support for easy usage  
 - Outputs a `.wbox` file ready to be loaded into Worldbox  
@@ -13,7 +14,8 @@ This utility transforms pixel data into a `.wbox` map file using a customizable 
 ## Installation  
 
 Currently this is in an Alpha Testing phase \
-The built executable is in Pre-Releases with a version for `Windows` machines. \
+The built executable is in [Pre-Releases](https://github.com/IgnizGitHub/HerzMapper/releases/tag/Alpha-Release) with a version for `Windows` machines. \
+This is already compiled and can simply be ran by Windows devices. \
 Source code and other platform support will be released after some testing. \
 As well as simple guide for building from source code.
 
