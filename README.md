@@ -1,8 +1,9 @@
 # Worldbox Image-to-Map Converter  
 
-A Rust-based tool that converts images into Worldbox: God Simulator maps. \
+An Open Source Rust-based tool that converts images into Worldbox: God Simulator maps. \
 This utility transforms pixel data into a `.wbox` map file using a customizable palette, making it easy to create custom maps from images. \
-This tool built to be fast and customizable to the user's needs. If you have improvements, feel free to contribute to this project! 
+This tool built to be fast and customizable to the user's needs. \
+If you have improvements, feel free to contribute to this project! 
 
 ## Features  
 - Convert images into Worldbox-compatible maps  
@@ -14,7 +15,8 @@ This tool built to be fast and customizable to the user's needs. If you have imp
 - Outputs a `.wbox` file ready to be loaded into Worldbox  
 
 ## Installation (Using Prebuilt Binary)
-Download the appropriate Windows / Linux build from [this link](https://github.com/IgnizGitHub/HerzMapper/releases/tag/v1.0.0) \
+# Currently Supporting Windows/Linux
+Download the appropriate build from [this link](https://github.com/IgnizGitHub/HerzMapper/releases/tag/v1.0.0) \
 Extract the contents of the zipped files into a folder. \
 Check out the [usage info below](https://github.com/IgnizGitHub/HerzMapper?tab=readme-ov-file#usage) for further steps.
 
