@@ -15,7 +15,7 @@ If you have improvements, feel free to contribute to this project!
 - Outputs a `.wbox` file ready to be loaded into Worldbox  
 
 ## Installation (Using Prebuilt Binary)
-# Currently Supporting Windows/Linux
+### Currently Supporting Windows/Linux
 Download the appropriate build from [this link](https://github.com/IgnizGitHub/HerzMapper/releases/tag/v1.0.0) \
 Extract the contents of the zipped files into a folder. \
 Check out the [usage info below](https://github.com/IgnizGitHub/HerzMapper?tab=readme-ov-file#usage) for further steps.
