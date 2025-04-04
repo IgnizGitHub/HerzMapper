@@ -1,0 +1,88 @@
+{
+    "saveVersion": 16,
+    "width": 2,
+    "height": 2,
+    "mapStats": {
+        "name": "Sadness and War",
+        "description": "",
+        "player_name": "The Angry",
+        "player_mood": "serene",
+        "world_time": 0.3399999924004078,
+        "world_age_id": "age_hope",
+        "current_world_ages_duration": 3120.0,
+        "current_age_progress": 0.00010897436,
+        "world_ages_slots": [
+            "age_hope",
+            "age_wonders",
+            "age_hope",
+            "age_unknown",
+            "age_ice",
+            "age_hope",
+            "age_tears",
+            "age_unknown"
+        ],
+        "life_dna": 20250329
+    },
+    "worldLaws": {
+        "list": [
+            {
+                "name": "age_hope"
+            },
+            {
+                "name": "age_sun"
+            },
+            {
+                "name": "age_dark"
+            },
+            {
+                "name": "age_tears"
+            },
+            {
+                "name": "age_moon"
+            },
+            {
+                "name": "age_chaos"
+            },
+            {
+                "name": "age_wonders"
+            },
+            {
+                "name": "age_ice"
+            },
+            {
+                "name": "age_ash"
+            },
+            {
+                "name": "age_despair"
+            },
+            {
+                "name": "age_unknown"
+            }
+        ]
+    },
+    "tileMap": [],
+    "tileArray": [],
+    "tileAmounts": [],
+    "fire": [],
+    "conwayEater": [],
+    "conwayCreator": [],
+    "frozen_tiles": [],
+    "tiles": [],
+    "cities": [],
+    "actors_data": [],
+    "buildings": [],
+    "kingdoms": [],
+    "clans": [],
+    "alliances": [],
+    "wars": [],
+    "plots": [],
+    "relations": [],
+    "cultures": [],
+    "books": [],
+    "subspecies": [],
+    "languages": [],
+    "religions": [],
+    "families": [],
+    "armies": [],
+    "items": []
+}
