@@ -41,3 +41,5 @@ world_law_civ_army true
 world_law_civ_limit_population_100 false
 world_law_gaias_covenant false
 world_law_cursed_world false
+world_law_civ_migrants true
+world_law_rat_plague false
