@@ -1,8 +1,10 @@
 hills 5B5E5C
+hills:snow_hills E2EDEC
 mountains 414545
 summit 333333
 summit:ice FFFFFF
 sand F7E898
+sand:snow_sand AFF5F1
 pit_deep_ocean 898989
 pit_close_ocean A0A0A0
 pit_shallow_waters C1C1C1
@@ -12,6 +14,8 @@ close_ocean 4084E2
 shallow_waters 55AEF0
 soil_low E2934B
 soil_high B66F3A
+soil_low:frozen_low BAD5D3
+soil_high:frozen_high D3E4E3
 soil_low:biomass_low 45C842
 soil_high:biomass_high 41A840
 soil_low:birch_low 93CF3A
