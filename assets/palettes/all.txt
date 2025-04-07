@@ -2,7 +2,7 @@ hills 5B5E5C
 hills:snow_hills E2EDEC
 mountains 414545
 summit 333333
-summit:ice FFFFFF
+summit:snow_summit FFFFFF
 sand F7E898
 sand:snow_sand AFF5F1
 pit_deep_ocean 898989
